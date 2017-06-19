@@ -1,0 +1,15 @@
+{
+  "name": "grid-challenge",
+  "version": "1.0.0",
+  "description": "This is a challenge about grids :)",
+  "main": "grid-challenge.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "grid",
+    "challenge"
+  ],
+  "author": "Liz Nomura",
+  "license": "ISC"
+}
