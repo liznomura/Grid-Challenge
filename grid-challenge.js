@@ -20,5 +20,5 @@ function stretchGoal(existingArray, cols, rows, fill) {
     }
     newArray[i] = row;
   }
-  return newArray.push(existingArray);
+  newArray.push(existingArray);
 }
